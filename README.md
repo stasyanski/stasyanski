@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Stasyanski</h1>
+<h1 align="center">Hi 👋, my name is Stas</h1>
 <h3 align="center">I am a developer who mostly focuses on reverse engineering, game hacking and anti cheat bypassing. I have been working on both simple software for Counter Strike and Dead by Daylight aiming to give the player an unfair advantage. Other than this, I am currently studying Software Engineering.</h3>
 
 
