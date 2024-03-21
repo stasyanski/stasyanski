@@ -10,3 +10,7 @@
 <p align="left">C++, Python, Lua, JS, HTML+CSS, SQL
 </p>
 
+<h3 align="left">:)</h3>
+<p align="left">Everything is open source, if you can reverse engineer
+</p>
+
