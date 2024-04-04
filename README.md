@@ -3,10 +3,10 @@
 <h3 align="center">🇲🇩 A passionate developer from Moldova</h3>
 
 - 💻 I’m currently working on:
-**SecuroPass, a utility to generate, store, manage and retrieve passwords securely.**
+- **SecuroPass, a utility to generate, store, manage and retrieve passwords securely.**
 
 - 📖 Currently studying Software Engineering:
-**at the University of Northampton, first year student.**
+- **at the University of Northampton, first year student.**
 
 
 <h3 align="left">Languages and Tools:</h3>
