@@ -2,10 +2,10 @@
 
 <h3 align="center">🇲🇩 A passionate developer from Moldova</h3>
 
-- 💻 I’m currently working on:
+- 💻 I’m currently working on:<br>
 **SecuroPass, a utility to generate, store, manage and retrieve passwords securely.**
 
-- 📖 Currently studying Software Engineering:
+- 📖 Currently studying Software Engineering:<br>
 **at the University of Northampton, first year student.**
 
 
