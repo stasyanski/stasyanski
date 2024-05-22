@@ -3,7 +3,8 @@
 <h3 align="center">🇲🇩 A passionate developer from Moldova</h3>
 
 - 💻 I’m currently working on:<br>
-**SecuroPass, a utility to generate, store, manage and retrieve passwords securely.**
+**Gamele, a character guessing game based on web technologies.**
+
 
 - 📖 Currently studying Software Engineering:<br>
 **at the University of Northampton, first year student.**
