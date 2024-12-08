@@ -2,7 +2,7 @@
 
 <h3 align="center">🇲🇩 A passionate developer from Moldova</h3>
 
-- 📖 I am currently working on a desktop application written in Java<br>
+- 👨‍💻 I am currently working on a desktop GUI application written in Java<br>
 **which helps individuals break away from their bad habits.**
 
 - 📖 Currently studying Software Engineering<br>
