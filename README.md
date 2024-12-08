@@ -14,4 +14,4 @@
 
 
 <h3 align="left">Statistics:</h3>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stasyanski&theme=default&show_icons=true&hide_border=true&count_private=true)
+![stasyanski's Stats](https://github-readme-stats.vercel.app/api?username=stasyanski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
