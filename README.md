@@ -2,7 +2,10 @@
 
 <h3 align="center">🇲🇩 A passionate developer from Moldova</h3>
 
-- 📖 Currently studying Software Engineering:<br>
+- 📖 I am currently working on a desktop application written in Java<br>
+**which helps individuals break away from their bad habits.**
+
+- 📖 Currently studying Software Engineering<br>
 **at the University of Northampton.**
 
 
