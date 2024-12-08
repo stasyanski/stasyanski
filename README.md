@@ -14,4 +14,6 @@
 
 
 <h3 align="left">Statistics:</h3>
-![stasyanski's Stats](https://github-readme-stats.vercel.app/api?username=stasyanski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasyanski&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
+</div>
