@@ -15,15 +15,12 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="33.3%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</td>
-   <td width="33.3%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-  </td>
-<td width="33.3%" align="center">
-  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=stasyanski&theme=tokyonight&hide_border=true"/>
-  </td>
+   <td width="50%" align="center">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+   </td>
+   <td width="50%" align="center">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   </td>
 </tr>
 </table>
 
