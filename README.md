@@ -9,20 +9,21 @@
 <p>• 👨‍💻 Im currently working on: null</p>
 </td>
 </tr>
-  
 </table>
+
 <h3 align="left">My Github Statistics</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-   <td width="50%" align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-   </td>
-   <td width="50%" align="center">
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-   </td>
-</tr>
-</table>
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: auto;">
+   <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
+      alt="Top Languages of stasyanski" 
+      style="width: 48%; height: auto;" />
+   <img 
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/stasyanski?cardType=level&theme=github-dark&preferLogin=false" 
+      alt="GitHub Stats of stasyanski" 
+      style="width: 50%; height: auto;" />
+</div>
+</p>
 
 <!--
 ---
