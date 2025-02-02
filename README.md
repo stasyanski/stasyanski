@@ -6,7 +6,7 @@
 <td width="100%" align="left">
 <p>• 🧑‍🎓 I’m currently learning Kotlin for Mobile Application Development and Data Structures and Algorithms.</p>
 <p>• 🏫 I’m studying Software Engineering at the University of Northampton, second year.</p>
-<p>• 👨‍💻 Im currently working on: null</p>
+<p>• 👨‍💻 Im currently working on: a external multihack for S.T.A.L.K.E.R. 2 HoC</p>
 </td>
 </tr>
 </table>
