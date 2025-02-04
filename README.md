@@ -1,15 +1,15 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Stas</h1>
 <h3 align="center">🇲🇩 A passionate developer and software engineer student from Moldova</h3>
-<table align="center">
-<tr border="none">
-<td width="100%" align="left">
-<p>• 🧑‍🎓 I’m currently learning Kotlin for Mobile Application Development and Data Structures and Algorithms.</p>
-<p>• 🏫 I’m studying Software Engineering at the University of Northampton, second year.</p>
-<p>• 👨‍💻 Im currently working on: a external multihack for S.T.A.L.K.E.R. 2 HoC</p>
-</td>
-</tr>
-</table>
+
+<h3 align="left">Infoboard</h3>
+<p align="center">
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: auto;">
+	<p>• 🧑‍🎓 I’m currently learning Kotlin for Mobile Application Development and Data Structures and Algorithms.</p>
+	<p>• 🏫 I’m studying Software Engineering at the University of Northampton, second year.</p>
+	<p>• 👨‍💻 Im currently working on: a external multihack for S.T.A.L.K.E.R. 2 HoC</p>
+</div>
+</p>
 
 <h3 align="left">My Github Statistics</h3>
 <p align="center">
@@ -17,11 +17,7 @@
    <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasyanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
       alt="Top Languages of stasyanski" 
-      style="width: 48%; height: auto;" />
-   <img 
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/stasyanski?cardType=level&theme=github-dark&preferLogin=false" 
-      alt="GitHub Stats of stasyanski" 
-      style="width: 50%; height: auto;" />
+      style="width: 33%; height: auto;" />
 </div>
 </p>
 
