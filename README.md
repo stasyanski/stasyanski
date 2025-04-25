@@ -7,7 +7,7 @@
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; height: auto;">
 	<p>• 🧑‍🎓 I’m currently learning Kotlin for Mobile Application Development and Data Structures and Algorithms.</p>
 	<p>• 🏫 I’m studying Software Engineering at the University of Northampton, second year.</p>
-	<p>• 👨‍💻 Im currently working on: university projects.</p>
+	<p>• 👨‍💻 Im currently working on: university projects and my dissertation.</p>
 </div>
 </p>
 
